@@ -1,5 +1,15 @@
 # QuickPaste — CEP Extension for AE & Premiere
 
+> [!IMPORTANT]
+> **QuickPaste has moved into [LazyKick](https://github.com/raisulsohan/LazyKick), where it is now called LazyPaste.**
+> This repository is archived and no longer updated.
+>
+> LazyKick installs with one double-click (signed, no PlayerDebugMode). Its LazyPaste keeps PNG transparency, pastes image files copied in Explorer/Finder, reuses a picture you already pasted, never overwrites an earlier paste, and never shifts clips in Premiere Pro. It has a Ctrl/Cmd+V shortcut too. The same panel also has project notes with timecodes and auto-importing watch folders.
+>
+> **[⬇️ Download LazyKick](https://github.com/raisulsohan/LazyKick/releases/latest)**
+
+---
+
 Pastes the current clipboard image into After Effects or Premiere Pro with one click. 
 The image is saved as a PNG file to `<project_folder>/Pasted Images/` and automatically imported into your active timeline.
 
